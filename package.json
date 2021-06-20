@@ -1,0 +1,17 @@
+{
+  "name": "mybotapi",
+  "version": "1.0.1",
+  "description": "MyBotAPI Es un API para obtener informacion de la plataforma https://portalmybot.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "*",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
